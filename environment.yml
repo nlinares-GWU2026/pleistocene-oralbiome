@@ -12,3 +12,4 @@ dependencies:
   - r-vegan
   - r-indicspecies
   - bioconductor-phyloseq
+  - bioconductor-hmp16sdata
