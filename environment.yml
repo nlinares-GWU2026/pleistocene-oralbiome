@@ -1,0 +1,13 @@
+name: pleistocene-oralbiome
+channels:
+  - conda-forge
+  - bioconda
+dependencies:
+  - python=3.11
+  - pandas
+  - requests
+  - r-base=4.3
+  - r-tidyverse
+  - r-vegan
+  - r-indicspecies
+  - bioconductor-phyloseq
